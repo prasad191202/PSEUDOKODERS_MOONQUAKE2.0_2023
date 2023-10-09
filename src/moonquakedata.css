@@ -1,0 +1,62 @@
+.seismic_cal
+{
+    color: rgb(255, 255, 255);
+    border-radius: 9px;
+    border-radius: 10px;
+    position: absolute;
+    padding: 30px;
+    margin: 50px;
+    top:0;
+    right: 0;
+    height: auto;
+   
+}
+.calen
+{
+    background: rgba(217, 217, 217, 0.22);
+}
+
+.title{
+    padding: 30px;
+    display: flex;
+    font-size: 40px;
+}
+
+.seis_title
+{
+    position: absolute;
+    padding: 10px;
+    background-color:  #292733;
+    margin-top: 50px;
+    width: 342px;
+    border-radius: 5px;
+    
+}
+.seismic_dat
+{
+    padding: 30px;
+    margin-top: 100px;
+    
+    border-radius: 5px;
+    background: rgba(217, 217, 217, 0.22);
+}
+.station_name
+{
+    width: 200px;
+    justify-content: center;
+    padding: 10px;
+}
+.locate
+{
+    padding: 10px;
+    width: 80px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    background-color: #292733;
+    transition: ease-in 0.5s;
+}
+.locate :hover
+{
+    background-color: #14131a;
+}

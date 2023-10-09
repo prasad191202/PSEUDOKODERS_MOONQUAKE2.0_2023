@@ -1,0 +1,10 @@
+
+.content {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 60px; /* Width of navbar */
+  height: 100%;
+  background: #ddd;
+  z-index: -1;
+}

@@ -1,0 +1,39 @@
+  .App{
+    background-color: #000011;
+  }
+
+  #containerss{
+    margin-top: 50px;
+    width: 300px;
+    position: relative;
+    display: inline-block;
+    justify-content: center;
+  }
+
+  .section {
+    background-color: #1e1e1e; /* Example background color */
+    padding: 20px;
+    margin-bottom: 10px;
+    align-items: center;
+    border-radius: 15px;
+    border: 1px solid rgb(82, 82, 82);
+    box-shadow: 0px 4px #5c5eff;
+    /* box-shadow: 0px 5px #134176; */
+    /* box-shadow: 10px 50px 30px 7px rgb(111, 109, 255); */
+    /* box-shadow: 10px 50px 30px 7px rgb(255, 206, 109); */
+  }
+
+  .section:not(:last-child) {
+    margin-bottom: 25px;
+  }
+  
+.section h2 {
+    font-size: 27px;
+    font-weight: bold;
+    color: #cdcdcd;
+}
+
+.section p {
+    font-size: 13px;
+    color: #cdcdcd;
+  }

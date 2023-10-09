@@ -1,0 +1,65 @@
+body{
+  width: fit-content;
+}
+.containers
+{
+    width: 400px;
+    
+    z-index: 1;
+ 
+}
+#yearbutton
+{
+  padding: 30px;
+  margin:10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #2A2A2A;
+  color: white;
+}
+.cal {
+ 
+    margin-left: 50px;
+    margin-top: 50px;
+    border-radius: 10px;
+    color: white;
+    display: block; /* Add flex display */
+    justify-content: space-between; /* Add this to push the button to the right */
+    align-items: center; /* Optional: align items vertically */
+  }
+  
+  .reveals {
+    background-color:  #635e7d;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 90px;
+    padding: 10px;
+    border-radius:5px ;
+    border: none;
+    /* Remove "right: 0;" as it's not needed */
+  }
+  
+  .imp_title
+  {
+    width: fit-content;
+    margin-top: 30px;
+    width: 350px;
+color: white;
+border-radius: 5px;
+    background-color: #2A2A2A;
+    padding: 30px;
+  }
+  .imp_data
+  {
+    width: fit-content;
+    width: 350px;
+    border-radius: 9px;
+    margin-left: 50px;
+    padding: 30px;
+    margin-top: 100px;
+    color: white;
+    font-style: normal;
+font-weight: 400;
+line-height: 34.5px; /* 181.579% */
+background: rgba(217, 217, 217, 0.22);
+  }

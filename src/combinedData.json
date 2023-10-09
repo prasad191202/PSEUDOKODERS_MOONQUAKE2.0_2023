@@ -1,0 +1,287 @@
+[
+  {
+    "Lat": 43,
+    "Long": -47,
+    "Station": 12,
+    "Day": 192,
+    "Year": 1971,
+    "StationData": {
+      "P_YN": 58.2,
+      "P_NG": 0,
+      "P_JK": 0,
+      "P_PH": 54.3,
+      "P_Mean": 56.2,
+      "S_YN": 200,
+      "S_NG": 0,
+      "S_JK": 0,
+      "S_PH": 200,
+      "S_Mean": 200
+    }
+  },
+  {
+    "Lat": 48,
+    "Long": 35,
+    "Station": 12,
+    "Day": 107,
+    "Year": 1971,
+    "StationData": {
+      "P_YN": 9.6,
+      "P_NG": 0,
+      "P_JK": 0,
+      "P_PH": 10,
+      "P_Mean": 9.8,
+      "S_YN": 212,
+      "S_NG": 0,
+      "S_JK": 0,
+      "S_PH": 210,
+      "S_Mean": 211
+    }
+  },
+  {
+    "Lat": 42,
+    "Long": -24,
+    "Station": 12,
+    "Day": 140,
+    "Year": 1971,
+    "StationData": {
+      "P_YN": 1.9,
+      "P_NG": 0,
+      "P_JK": 0,
+      "P_PH": 1.5,
+      "P_Mean": null,
+      "S_YN": 183,
+      "S_NG": 0,
+      "S_JK": 0,
+      "S_PH": 183.5,
+      "S_Mean": 183.3
+    }
+  },
+  {
+    "Lat": 43,
+    "Long": -47,
+    "Station": 12,
+    "Day": 192,
+    "Year": 1971,
+    "StationData": {
+      "P_YN": 58.2,
+      "P_NG": 0,
+      "P_JK": 0,
+      "P_PH": 54.3,
+      "P_Mean": 56.2,
+      "S_YN": 200,
+      "S_NG": 0,
+      "S_JK": 0,
+      "S_PH": 200,
+      "S_Mean": 200
+    }
+  },
+  {
+    "Lat": 54,
+    "Long": 101,
+    "Station": 14,
+    "Day": 2,
+    "Year": 1972,
+    "StationData": {
+      "P_YN": 170,
+      "P_NG": 0,
+      "P_JK": 0,
+      "P_PH": 72.5,
+      "P_Mean": 170,
+      "S_YN": 485,
+      "S_NG": 0,
+      "S_JK": 0,
+      "S_PH": 233,
+      "S_Mean": 485
+    }
+  },
+  {
+    "Lat": -84,
+    "Long": -134,
+    "Station": 12,
+    "Day": 72,
+    "Year": 1973,
+    "StationData": {
+      "P_YN": 34.2,
+      "P_NG": 34.1,
+      "P_JK": 34.2,
+      "P_PH": 34,
+      "P_Mean": 34.1,
+      "S_YN": 267,
+      "S_NG": 272,
+      "S_JK": 267,
+      "S_PH": 233,
+      "S_Mean": 268.7
+    }
+  },
+  {
+    "Lat": -1,
+    "Long": -71,
+    "Station": 12,
+    "Day": 171,
+    "Year": 1973,
+    "StationData": {
+      "P_YN": 56.1,
+      "P_NG": 55,
+      "P_JK": 56,
+      "P_PH": 27.5,
+      "P_Mean": 55.7,
+      "S_YN": 180,
+      "S_NG": 185.3,
+      "S_JK": 187.5,
+      "S_PH": 182,
+      "S_Mean": 183.7
+    }
+  },
+  {
+    "Lat": 21,
+    "Long": 88,
+    "Station": 12,
+    "Day": 192,
+    "Year": 1974,
+    "StationData": {
+      "P_YN": 138.7,
+      "P_NG": 138.5,
+      "P_JK": 138.7,
+      "P_PH": 156,
+      "P_Mean": 138.6,
+      "S_YN": 459,
+      "S_NG": 412.5,
+      "S_JK": 417,
+      "S_PH": 215,
+      "S_Mean": 438
+    }
+  },
+  {
+    "Lat": 29,
+    "Long": -98,
+    "Station": 12,
+    "Day": 3,
+    "Year": 1975,
+    "StationData": {
+      "P_YN": 33.5,
+      "P_NG": 33.6,
+      "P_JK": 33.5,
+      "P_PH": 34,
+      "P_Mean": 33.7,
+      "S_YN": 270,
+      "S_NG": 269,
+      "S_JK": 255,
+      "S_PH": 240,
+      "S_Mean": 262
+    }
+  },
+  {
+    "Lat": 75,
+    "Long": 40,
+    "Station": 14,
+    "Day": 12,
+    "Year": 1975,
+    "StationData": {
+      "P_YN": 137.7,
+      "P_NG": 127.5,
+      "P_JK": 137.5,
+      "P_PH": 140,
+      "P_Mean": 138.4,
+      "S_YN": 368,
+      "S_NG": 453,
+      "S_JK": 356,
+      "S_PH": 275,
+      "S_Mean": 362
+    }
+  },
+  {
+    "Lat": -19,
+    "Long": -26,
+    "Station": 14,
+    "Day": 44,
+    "Year": 1975,
+    "StationData": {
+      "P_YN": 58.3,
+      "P_NG": 58.2,
+      "P_JK": 58,
+      "P_PH": 24,
+      "P_Mean": 58.2,
+      "S_YN": 108,
+      "S_NG": 107.8,
+      "S_JK": 108,
+      "S_PH": 331,
+      "S_Mean": 107.9
+    }
+  },
+  {
+    "Lat": -8,
+    "Long": 64,
+    "Station": 14,
+    "Day": 314,
+    "Year": 1975,
+    "StationData": {
+      "P_YN": 160,
+      "P_NG": 149.6,
+      "P_JK": 145.5,
+      "P_PH": 24,
+      "P_Mean": 160,
+      "S_YN": 370,
+      "S_NG": 257,
+      "S_JK": 265,
+      "S_PH": 331,
+      "S_Mean": 370
+    }
+  },
+  {
+    "Lat": 50,
+    "Long": 30,
+    "Station": 14,
+    "Day": 4,
+    "Year": 1976,
+    "StationData": {
+      "P_YN": 50,
+      "P_NG": 149.6,
+      "P_JK": 145.5,
+      "P_PH": 24,
+      "P_Mean": 50,
+      "S_YN": 353,
+      "S_NG": 353.8,
+      "S_JK": 265,
+      "S_PH": 331,
+      "S_Mean": 353.4
+    }
+  },
+  {
+    "Lat": 50,
+    "Long": -20,
+    "Station": 12,
+    "Day": 66,
+    "Year": 1976,
+    "StationData": {
+      "P_YN": 118,
+      "P_NG": 110.8,
+      "P_JK": 110.8,
+      "P_PH": 24,
+      "P_Mean": 113.2,
+      "S_YN": 263,
+      "S_NG": 262,
+      "S_JK": 263,
+      "S_PH": 262.5,
+      "S_Mean": 262.6
+    }
+  },
+  {
+    "Lat": -19,
+    "Long": -12,
+    "Station": 12,
+    "Day": 68,
+    "Year": 1976,
+    "StationData": {
+      "P_YN": 161.5,
+      "P_NG": 39.2,
+      "P_JK": 161,
+      "P_PH": 38.5,
+      "P_Mean": 161.3,
+      "S_YN": 347,
+      "S_NG": 98.8,
+      "S_JK": 355,
+      "S_PH": 132.5,
+      "S_Mean": 98.8
+    }
+  }
+]
